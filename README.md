@@ -18,7 +18,7 @@ This project analyzes wholesale client data to identify top customers, calculate
 ## Installation & Usage
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/pandas-challenge-1.git
+git clone https://github.com/cfleming22/pandas-challenge-1.git
 cd pandas-challenge-1
 ```
 
