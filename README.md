@@ -3,13 +3,6 @@
 ## Overview
 This project analyzes wholesale client data to identify top customers, calculate profitability, and verify order totals. The analysis includes data exploration, transformation, and verification of calculations.
 
-## Project Structure
-```
-pandas-challenge-1/
-├── Resources/
-│   └── 4-challenge-client_dataset.csv
-└── wholesale_data_analysis.ipynb
-```
 
 ## Features
 - Data exploration and category analysis
